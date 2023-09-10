@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tute01</string>
+    <string name="btnAdd">Add Record</string>
+    <string name="btnView">View record</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="edtName">Enter Name</string>
+    <string name="edtDOB">Enter Date Of Birth</string>
+    <string name="btnInsertRecord">Insert Record</string>
+    <string name="btnUpdateRecord">Update Record</string>
+</resources>
